@@ -91,7 +91,7 @@ JUnit ensures confidence in our logic with clean, readable tests.
 
 - ▶️ [Daily Journal Processor](https://github.com/FW-Zalando-Java-Backend-Engineer/JournalProcessor)
 - 🏷️ [Hashtag Formatter](https://github.com/FW-Zalando-Java-Backend-Engineer/Hashtag-Formatter)
-- 🔧 [-](#)
+- 📢 [Notification Message Builder](https://github.com/FW-Zalando-Java-Backend-Engineer/Notification-Message-Builder)
 - 🧪 [-](#)
 
 
