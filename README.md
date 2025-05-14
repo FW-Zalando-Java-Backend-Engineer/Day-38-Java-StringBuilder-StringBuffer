@@ -83,7 +83,7 @@ JUnit ensures confidence in our logic with clean, readable tests.
 
 ## 🎥 Zoom Recording
 
-📹 **[Watch Day 38 Session](#)** _(Link to be added after upload)_
+📹 **[Watch Day 38 Session](https://us06web.zoom.us/rec/share/So5T4kJkcvsvV286DO4M-XuWipbfh_zjWfuwFqWA21fbPk4_f1mAUp7vjnXnvVf_.iigf9UJXEQq8P-BD?startTime=1747124479000)**
 
 ---
 
